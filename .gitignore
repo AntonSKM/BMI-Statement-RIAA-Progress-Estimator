@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Real royalty statements / generated reports
+BMI Statements/
+statements/
+output/
+*.xlsx
+*.xls
+
+# Keep synthetic repository examples tracked
+!examples/statements/
+!examples/statements/*.csv
+!examples/output/
+!examples/output/*.csv
+!examples/output/*.txt
+
+# Secrets / local environment
+.env
+*.env
+
+# Build artifacts
+build/
+dist/
