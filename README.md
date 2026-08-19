@@ -60,15 +60,20 @@ data, not an official RIAA certification result.
 For the first example title:
 
 ```text
-Observed selected U.S. performance count:  52,483,200
-÷ 150 streams per Digital Single unit:         349,888 estimated units
+Observed selected U.S. performance count:  75,138,749
+÷ 150 streams per Digital Single unit:         500,924 estimated units
 
 Gold threshold:                                500,000 units
-Estimated progress:                              69.98 %
-Estimated units remaining:                     150,112
+Estimated progress:                            100.18 %
+Estimated units remaining for RIAA Gold:       0
+
+Platinum threshold:                            1,000,000 units
+Estimated progress:                            50.09%
+Estimated units remaining for RIAA Platinum:   499,076
+
 ```
 
-That result does **not** mean the title is officially 69.98% certified. It means the rows included by this tool correspond to that many streaming-equivalent units under the conversion formula.
+That result does **not** mean the title is officially RIAA gold certified. It means the rows included by this tool correspond to that many streaming-equivalent units under the conversion formula.
 
 ---
 
