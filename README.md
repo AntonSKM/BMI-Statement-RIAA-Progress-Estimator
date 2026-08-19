@@ -60,7 +60,7 @@ data, not an official RIAA certification result.
 For the first example title:
 
 ```text
-Observed selected U.S. performance count:  75,138,749
+Observed selected U.S. performance count:      75,138,749
 ÷ 150 streams per Digital Single unit:         500,924 estimated units
 
 Gold threshold:                                500,000 units
