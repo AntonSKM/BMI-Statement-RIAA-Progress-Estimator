@@ -48,9 +48,8 @@ produces:
 ```text
 TITLE                          OBSERVED STREAMS   EST. UNITS             NEXT   PROGRESS
 ----------------------------------------------------------------------------------------
-Dream Control                        52,483,200      349,888             Gold     69.98%
-Night Drive                          12,000,000       80,000             Gold     16.00%
-Static Hearts                         4,500,000       30,000             Gold      6.00%
+MY BODY                              75,138,749      500,924         Platinum     50.09%
+SWAG ON POINT                        13,501,430       90,009             Gold     18.00%
 
 Processed 2 CSV file(s). Saved report to output/example_summary.csv
 
